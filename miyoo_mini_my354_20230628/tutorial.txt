@@ -6,8 +6,6 @@
 4.升级后会出现充电模式(删除SD卡img镜像文件)
 
 
-
-
 Upgrade tutorial
 1. Copy the img image file to the root directory of the SD card
 2. Keep the machine shut down and plug in the SD card with the copy
